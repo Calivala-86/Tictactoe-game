@@ -6,6 +6,6 @@ Getting started
 
 get the code from the repository
 
-git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection.git
+git clone: (https://github.com/Calivala-86/Tictactoe-game.git)
 
 Have Java and Eclipse installed. 
